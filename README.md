@@ -14,6 +14,8 @@ al- 12 resistencias para los LEDs. Aprende a calcularlas en este tutorial [https
 - Resistencia del mismo valor que la R0 de la NTC.
 - Cable USB para Arduino.
 - Fuente de alimentación de 5v.
+- 2 x Tornillo M3 10mm.
+- 2 x Tuerca M3.
 
 # Construcción
 
